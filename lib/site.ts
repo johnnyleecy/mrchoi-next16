@@ -8,7 +8,7 @@ export const SITE = {
   description:
     "香港換鎖師傅，上門門鎖維修、換鎖、裝鎖、換門安裝、裝門、櫃安裝及家私組裝。師傅本人接單、報價透明、現場拍照確認。一切先 WhatsApp 我哋發相報價，香港島、九龍、新界各區。",
   // ⚠️ 上線前請改成本身網域（例如 https://www.yourdomain.com）
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.example.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://ragstore.org",
   // ⚠️ 上線前請換成實際 WhatsApp 號碼（國際格式，不加 +，例：85291234567）
   whatsappNumber: "85254448744",
   // ⚠️ 上線前請換成實際電話
